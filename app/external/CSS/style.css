@@ -1,14 +1,22 @@
-#head-top span{
-padding: 5px;
-font-size: 20px;
+#head-top p
+{position: relative;
+padding-bottom:30px ;  
 font-weight: 900;
-float: right;
-padding-top: 30px;
+padding-top: 42px;
+padding-left:70px;
 }
-#head-top .col-3{
-    padding: 15px;
+#head-top .far
+{
+font-weight: 900;
+font-size:40px;
+padding-top:40px;
+position:absolute;
+font-style:normal;
+padding-left:10px ;
+
 }
-#head-top .far{
-    font-size:30px;
-    font-weight: 900;
+#head-top .p_stle
+{
+text-align:justify;
+font-size:20px;
 }
