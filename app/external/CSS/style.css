@@ -1,0 +1,14 @@
+#head-top span{
+padding: 5px;
+font-size: 20px;
+font-weight: 900;
+float: right;
+padding-top: 30px;
+}
+#head-top .col-3{
+    padding: 15px;
+}
+#head-top .far{
+    font-size:30px;
+    font-weight: 900;
+}
